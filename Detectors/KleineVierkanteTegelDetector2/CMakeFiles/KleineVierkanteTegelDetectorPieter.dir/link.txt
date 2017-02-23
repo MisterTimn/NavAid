@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/KleineVierkanteTegelDetectorPieter.dir/main.cpp.o  -o KleineVierkanteTegelDetectorPieter -rdynamic -lopencv_core -lopencv_highgui -lopencv_imgproc 

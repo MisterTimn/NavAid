@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/SmalleTegelDetectorKevin.dir/main.cpp.o  -o SmalleTegelDetectorKevin -rdynamic -lopencv_core -lopencv_highgui -lopencv_imgproc 

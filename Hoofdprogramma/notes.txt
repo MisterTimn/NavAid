@@ -1,0 +1,5 @@
+nota's voor bij het hoofdprogramma:
+om te testen: breakpoint zetten op de cout<< endl; op lijn 178 en laten debuggen in netbeans.
+parameters om te optimaliseren: 
+-> lijn 154 huidigeOfVolgend.size() dat is de grootte van de buffer waarmee rekening wordt gehouden. Deze is steeds 1 groter dan het aantal elementen. Voorbeeld buffer is 4: een buffer van 3 frames, dus "volgendeStemmen" moet 2 stemmen na elkaar krijgen om naar volgend te gaan.
+-> in de if... else... lus tussen regel 100 & 140 kan je bepaalde zekerheden opleggen aan de svm; dit wordt echter niet gebruikt, ik kijk gewoon waar hij het zekerste van is.

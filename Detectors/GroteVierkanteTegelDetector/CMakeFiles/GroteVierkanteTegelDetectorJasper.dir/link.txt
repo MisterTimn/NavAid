@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/GroteVierkanteTegelDetectorJasper.dir/main.cpp.o  -o GroteVierkanteTegelDetectorJasper -rdynamic -lopencv_core -lopencv_highgui -lopencv_imgproc 

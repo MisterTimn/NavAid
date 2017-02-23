@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/KleineVierkanteTegelDetectorKevin.dir/main.cpp.o  -o KleineVierkanteTegelDetectorKevin -rdynamic -lopencv_core -lopencv_highgui -lopencv_imgproc 

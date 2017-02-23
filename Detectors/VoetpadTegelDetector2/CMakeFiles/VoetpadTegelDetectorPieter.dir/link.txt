@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/VoetpadTegelDetectorPieter.dir/main.cpp.o  -o VoetpadTegelDetectorPieter -rdynamic -lopencv_core -lopencv_highgui -lopencv_imgproc 

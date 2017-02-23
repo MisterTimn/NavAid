@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/g/Dropbox/project_beeldverwerking/Detectors/GroteVierkanteTegelDetectorJasper/main.cpp
+opencv2/opencv.hpp
+-
+iostream
+-
+fstream
+-
+vector
+-
+
