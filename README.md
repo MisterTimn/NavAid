@@ -8,9 +8,11 @@ Technology:
 <li>C++
 <li>Open-CV
 <li>SVM
+</ul>
 
 Authors:
 <ul>
 <li>Jasper Vaneessen
 <li>Pieter Beuselinck
 <li>Kevin Buyck
+</ul>
